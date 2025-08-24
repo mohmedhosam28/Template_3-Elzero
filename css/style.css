@@ -1950,7 +1950,7 @@ header .container nav>ul>li:last-child:hover .mega-menue {
 /* end sts */
 /* start discount */
 .discount {
-    padding-bottom: var(--padding);
+    /* padding-bottom: var(--padding); */
     display: flex;
     flex-wrap: wrap;
 }
